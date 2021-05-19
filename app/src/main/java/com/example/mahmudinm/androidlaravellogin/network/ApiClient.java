@@ -10,7 +10,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ApiClient {
 
-    private static final String url = "http://192.168.100.9:8000/";
+    private static final String url = "http://demov2.1.assetsadm.in/";
 
     private static Retrofit retrofit;
 
